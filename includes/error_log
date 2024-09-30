@@ -1,0 +1,2 @@
+[28-Mar-2019 20:40:51 America/Chicago] PHP Fatal error:  Call to undefined function webtvpanel_CheckLicense() in /home/mamutedi/player.aueiptv.com.br/includes/ajax-control.php on line 67
+[28-Mar-2019 20:43:41 America/Chicago] PHP Fatal error:  Call to undefined function webtvpanel_CheckLicense() in /home/mamutedi/player.aueiptv.com.br/includes/ajax-control.php on line 67
